@@ -1,3 +1,31 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+}
+
+
+ul {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    color: #1e2432;
+}
+
+ul {
+    list-style-position: inherit;
+}
+
+body {
+    font: 1rem/1.3 "Roboto", sans-serif;
+    padding: 50px;
+    background-color: lightblue;
+}
+
+
 #map {
     height: 500px;
     width: 100%;
